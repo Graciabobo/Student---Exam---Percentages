@@ -1,6 +1,6 @@
 **Students Exam Percentage Analysis**
 
-Introduction
+**Introduction**
 
 This project analyzes students’ academic performance using statistical and data analysis techniques. The goal is to identify how different factors influence 
 students’ final exam percentages and provide insights that can help improve academic outcomes.
@@ -22,9 +22,7 @@ students’ final exam percentages and provide insights that can help improve ac
 4.	What is the impact of practice tests on final scores? 
 5.	Is there an optimal sleep range for better academic performance? 
 
-** Dataset Description**
- 
-**The dataset contains the following variables:**
+** Dataset Description: The dataset contains the following variables:**
 
 •	Hours Studied – Number of hours spent studying 
 •	Attendance (%) – Student attendance rate 
