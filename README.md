@@ -1,5 +1,5 @@
-Students Exam Percentage Analysis
- Introduction
+#Students Exam Percentage Analysis
+##Introduction
 This project analyzes students’ academic performance using statistical and data analysis techniques. The goal is to identify how different factors influence 
 students’ final exam percentages and provide insights that can help improve academic outcomes.
 
