@@ -1,9 +1,12 @@
-Students Exam Percentage Analysis
+**Students Exam Percentage Analysis**
+
 Introduction
+
 This project analyzes students’ academic performance using statistical and data analysis techniques. The goal is to identify how different factors influence 
 students’ final exam percentages and provide insights that can help improve academic outcomes.
 
  Objectives 
+ 
 The main objectives of this project are:
 •	To examine the effect of hours studied on exam performance 
 •	To analyze the relationship between attendance percentage and final scores 
@@ -12,6 +15,7 @@ The main objectives of this project are:
 •	To assess how practice tests affect final exam percentages 
 
 Research Questions
+
 1.	How does the number of hours studied affect the final percentage? 
 2.	Is there a relationship between attendance and exam performance? 
 3.	Do students with higher previous scores perform better? 
@@ -19,7 +23,9 @@ Research Questions
 5.	Is there an optimal sleep range for better academic performance? 
 
  Dataset Description
+ 
 The dataset contains the following variables:
+
 •	Hours Studied – Number of hours spent studying 
 •	Attendance (%) – Student attendance rate 
 •	Previous Scores – Past academic performance 
@@ -36,6 +42,7 @@ The dataset contains the following variables:
 | Final Percentage | Exam score                     | Dependent   |
 
 Tools & Technologies
+
 •	Microsoft Excel (Data cleaning & analysis) 
 •	Pivot Tables & Charts 
 • Regression Analysis 
@@ -51,6 +58,7 @@ Tools & Technologies
 |Statistical Techniques| Prediction & Forecasting   |
 
  Methodology
+ 
 The project uses the following methods:
 •	Correlation Analysis to identify relationships between variables 
 •	Regression Analysis to measure the impact of independent variables on exam performance 
@@ -58,6 +66,7 @@ The project uses the following methods:
 •	Pivot Analysis to measure the impact of independent variables to dependent variable
 
 Performance Trend
+
 | Practice Tests Taken | Average Final Percentage |
 | -------------------- | ------------------------ |
 | 0                    | 67.94                    |
@@ -68,6 +77,7 @@ Performance Trend
 | 10                   | 86.66                    |
 
 Key Metrix
+
 | Metric            | Value | Interpretation                            |
 | ----------------- | ----- | ----------------------------------------- |
 | R Square          | 0.87  | Strong model fit (87% explained variance) |
@@ -76,6 +86,7 @@ Key Metrix
 | Observations      | 1000  | Large dataset                             |
 
 Key Findings
+
 •	There is a strong positive relationship between hours studied and exam performance 
 •	Attendance significantly affects final percentages 
 •	Students with higher previous scores tend to perform better 
@@ -93,6 +104,7 @@ Key Findings
 | Sleep Hours     | Moderate impact (weak)      |
 
  Recommendations
+ 
 •	Students should maintain consistent study habits 
 •	Schools should encourage regular attendance 
 •	Practice tests should be incorporated into learning routines 
@@ -105,6 +117,7 @@ Key Findings
 | Lifestyle    | Maintain balanced sleep schedule |
 
  Conclusion
+ 
  The analysis shows that student performance is influenced by study behavior, attendance, and preparation strategies. Improving these factors can significantly boost academic outcomes.
 
 
